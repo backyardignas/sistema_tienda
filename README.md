@@ -147,10 +147,10 @@ URL base: `http://localhost:8081`
 
 5. Abre la documentación interactiva en **http://localhost:8081/swagger-ui.html** y prueba los endpoints.
 
-## 👤 Autor
+## 👥 Autores
 
-**Santiago Arango Quintero** — Desarrollador frontend y estudiante de Desarrollo de Software y Análisis de Datos en CESDE.
+Proyecto realizado en pareja en CESDE.
 
-[Portafolio](https://backyardignas.github.io) · [LinkedIn](https://www.linkedin.com/in/santi-arango-bb6820267/) · [GitHub](https://github.com/backyardignas)
-
-Proyecto realizado en pareja con un compañero de CESDE.
+- **Santiago Arango Quintero** — Desarrollador frontend y estudiante de Desarrollo de Software y Análisis de Datos.
+  [Portafolio](https://backyardignas.github.io) · [LinkedIn](https://www.linkedin.com/in/santi-arango-bb6820267/) · [GitHub](https://github.com/backyardignas)
+- **Alex** — [GitHub](https://github.com/AlexMonroy69)
