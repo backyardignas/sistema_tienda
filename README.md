@@ -153,4 +153,4 @@ Proyecto realizado en pareja en CESDE.
 
 - **Santiago Arango Quintero** — Desarrollador frontend y estudiante de Desarrollo de Software y Análisis de Datos.
   [Portafolio](https://backyardignas.github.io) · [LinkedIn](https://www.linkedin.com/in/santi-arango-bb6820267/) · [GitHub](https://github.com/backyardignas)
-- **Alex** — [GitHub](https://github.com/AlexMonroy69)
+- **Alex Monroy** — [GitHub](https://github.com/AlexMonroy69)
